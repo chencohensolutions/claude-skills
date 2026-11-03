@@ -1,0 +1,22 @@
+{
+  "name": "chencohen-skills",
+  "owner": { "name": "Hen Cohen", "email": "hencohen83@gmail.com" },
+  "metadata": { "description": "Hen Cohen's shared Claude Code skills, one plugin per skill so each project enables only what it uses." },
+  "plugins": [
+    {
+      "name": "ui-lab",
+      "source": "./plugins/ui-lab",
+      "description": "UX/UI suggestions as tappable mocks in an app's UI lab: mock, close the round, promote."
+    },
+    {
+      "name": "android-emulator",
+      "source": "./plugins/android-emulator",
+      "description": "Start and stop a project's Android emulator, pick the phone or emulator, install, open and screenshot the app."
+    },
+    {
+      "name": "qnn-npu-compile",
+      "source": "./plugins/qnn-npu-compile",
+      "description": "Compile ONNX models for Qualcomm NPUs (QNN HTP) and run them on Android with sherpa-onnx or ONNX Runtime."
+    }
+  ]
+}

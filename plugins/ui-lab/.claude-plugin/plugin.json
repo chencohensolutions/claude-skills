@@ -1,0 +1,6 @@
+{
+  "name": "ui-lab",
+  "version": "0.1.0",
+  "description": "UX/UI suggestions as tappable mocks in an app's UI lab: mock, close the round, promote.",
+  "author": { "name": "Hen Cohen" }
+}

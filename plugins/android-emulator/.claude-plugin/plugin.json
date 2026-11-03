@@ -1,0 +1,6 @@
+{
+  "name": "android-emulator",
+  "version": "0.1.0",
+  "description": "Start and stop a project's Android emulator, pick the phone or emulator, install, open and screenshot the app.",
+  "author": { "name": "Hen Cohen" }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "qnn-npu-compile",
+  "version": "0.1.0",
+  "description": "Compile ONNX models for Qualcomm NPUs (QNN HTP) and run them on Android with sherpa-onnx or ONNX Runtime.",
+  "author": { "name": "Hen Cohen" }
+}
