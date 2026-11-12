@@ -55,9 +55,13 @@ claude plugin validate .    # checks the manifests; there are no automated tests
 
 - First published Nov 3, 2026. All three plugins are at 0.1.0.
 - The Android skill and its script assume a macOS host by default.
-- No license file is included yet.
 
 ## More docs
 
 - [docs/REFERENCE.md](docs/REFERENCE.md): what each skill makes the agent do, repository layout, installing through
   `settings.json`, adding or changing a skill.
+
+## License
+
+Free for noncommercial use under the [PolyForm Noncommercial License 1.0.0](LICENSE.md). For commercial use, ask for a
+separate license. Third-party code, models and data keep their own licenses.
